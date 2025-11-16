@@ -1,5 +1,5 @@
 
-# **Strack Discord Bot**
+# **The Strack Discord Bot**
 
 Hey there! Meet **Strack**, your friendly neighborhood Discord bot that’s here to track message activity and spice up your server with awesome leaderboards! Built with Python and the `discord.py` library, Strack is perfect for communities, gaming crews, or any server where roles matter. It’s all about celebrating your most chatty members in style!
 
