@@ -177,7 +177,7 @@ Don’t have a fancy hosting service? No problem! You can fire up **Strack** rig
 - `.env`: Stores your bot token and channel ID (keep it secret!).
 
 ## **Join the Fun!**
-Spot a glitch or have a cool idea? Drop an issue on this GitHub repo or send a pull request. We’d love your input to make Strack even better!
+Spotted a glitch or have a cool idea? Drop an issue on this GitHub repo or send a pull request. We’d love your input to make Strack even better!
 
 ## **License**
 Strack comes with the [MIT License](LICENSE), meaning you can use, tweak, and share it as long as you give a shoutout. Check the `LICENSE` file for the full scoop.
